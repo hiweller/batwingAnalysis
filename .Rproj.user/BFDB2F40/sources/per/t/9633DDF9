@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1525135380936.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "13|88|39|0|\n21|35|23|2|\n25|34|27|2|\n27|42|29|2|\n42|88|78|0|\n",
+    "hash" : "1192425301",
+    "id" : "9633DDF9",
+    "lastKnownWriteTime" : 1525226977,
+    "last_content_update" : 1525226977595,
+    "path" : "~/Dropbox/Westneat_Lab/batwingAnalysis/define_color_ranges.R",
+    "project_path" : "define_color_ranges.R",
+    "properties" : {
+        "cursorPosition" : "91,37",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

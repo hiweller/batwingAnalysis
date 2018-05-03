@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1525117773615.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "10|71|16|0|\n20|71|26|0|\n31|25|38|0|\n72|28|75|0|\n",
+    "hash" : "2472124414",
+    "id" : "B589F0C0",
+    "lastKnownWriteTime" : 1525276080,
+    "last_content_update" : 1525276080325,
+    "path" : "~/Dropbox/Westneat_Lab/batwingAnalysis/bat_WNS_sarah_hooper.R",
+    "project_path" : "bat_WNS_sarah_hooper.R",
+    "properties" : {
+        "cursorPosition" : "54,26",
+        "scrollLine" : "48"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

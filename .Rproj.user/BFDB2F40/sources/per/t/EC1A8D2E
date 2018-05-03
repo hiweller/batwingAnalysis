@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1525117763599.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "55|17|62|2|\n",
+    "hash" : "3054837242",
+    "id" : "EC1A8D2E",
+    "lastKnownWriteTime" : 1525135640,
+    "last_content_update" : 1525138720129,
+    "path" : "~/Dropbox/Westneat_Lab/batwingAnalysis/count_pixels_in_image.R",
+    "project_path" : "count_pixels_in_image.R",
+    "properties" : {
+        "cursorPosition" : "47,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
